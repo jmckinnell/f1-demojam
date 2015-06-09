@@ -1,0 +1,19 @@
+{
+  "name": "f1-demojam",
+  "version": "0.0.1",
+  "description": "A playspace for UI using F1 and BigWheel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmckinnell/f1-demojam"
+  },
+  "author": "Jonathan McKinnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmckinnell/f1-demojam/issues"
+  },
+  "homepage": "https://github.com/jmckinnell/f1-demojam"
+}
