@@ -1,0 +1,14 @@
+{
+  "generator-jam3": {
+    "projectName": "f1-demojam",
+    "projectRepository": "jmckinnell/f1-demojam",
+    "projectDescription": "A playspace for UI using F1 and BigWheel",
+    "projectAuthorName": "Jonathan McKinnell",
+    "projectAuthorEmail": "jonathan@jam3.com",
+    "useBower": false,
+    "useTexturePackager": false,
+    "isCanvasBased": false,
+    "isDOMBased": true,
+    "templateLibraries": []
+  }
+}
